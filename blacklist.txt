@@ -1,0 +1,56 @@
+freshmarketer.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
+widgets.pinterest.com
+
+# Scorecard Research
+scorecardresearch.com
+*.scorecardresearch.com
+
+# Yandex
+appmetrica.yandex.com
+extmaps-api.yandex.net
+/.*[`^.`]yandex.com$/
+
+# Amazon
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+
+# Huawai
+/^metrics[0-9]?\.data\.hicloud\.com$/
+/^logservice[0-9]?\.hicloud\.com$/
+/^metrics.+\.hicloud.com$/
+logbak.hicloud.com
+
+# Samsung
+analytics-api.samsunghealthcn.com
+
+# Apple
+supportmetrics.apple.com
+
+# Google
+#/(..|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|..+))) (..|^)g(gpht|mail|static|v(t[12])?)($|..+) (..|^)chrom(e(experiments)?|ium)($|..+) (..|^)ampproject($|..+) (..|^)doubleclick($|..+) (..|^)firebaseio($|..+) (..|^)googlevideo($|..+) (..|^)waze($|..+) (.*.|^)y(outube|timg)($|..+)/
+#/.*[`^.`]l.google.com$/
+#/.*[`^.`]googlevideo.com$/
+
+# Facebook
+/^\d\.beta\.facebook\.com$/
+/^\d\.facebook\.com$/
+/^\d+-edge-chat\.facebook\.com$/
+/^ae\d+.+tfbnw\.net$/
+ads.facebook.com
+
+# TikTok
+/^analytics.+\.tiktok\.com$/
+
+# OPPO
+click.oneplus.cn
+
+# Twitter (all)
+/^(.*\.)?twitter.com$/
+/^(.*\.)?t.co$/
+/^(.*\.)?x.com$/
+/^(.*\.)?pscp.tv$/
