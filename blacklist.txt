@@ -1,9 +1,10 @@
-freshmarketer.com
+/^(.*\.)freshmarketer.com$/
 api.bugsnag.com
 app.bugsnag.com
 browser.sentry-cdn.com
 app.getsentry.com
 widgets.pinterest.com
+trk.pinterest.com
 
 # Scorecard Research
 scorecardresearch.com
@@ -54,5 +55,3 @@ click.oneplus.cn
 /^(.*\.)?t.co$/
 /^(.*\.)?x.com$/
 /^(.*\.)?pscp.tv$/
-
-/^(.*\.)freshmarketer.com$/
