@@ -1,4 +1,4 @@
-/.*[`^.`]google.com$/
+/^(?!analytics).*?\.google\.com$/
 /.*[`^.`]youtube.com$/
 /.*[`^.`]microsoft.com$/
 /.*[`^.`]announce.torrentsmd.com$/
