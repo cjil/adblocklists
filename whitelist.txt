@@ -1,5 +1,5 @@
 /^(?!analytics).*?\.google\.com$/
-/.*[`^.`]youtube.com$/
+/^(ads).*?\.youtube.com$/
 /.*[`^.`]microsoft.com$/
 /.*[`^.`]announce.torrentsmd.com$/
 /.*[`^.`]tracker.trackerfix.com$/
