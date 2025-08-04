@@ -54,3 +54,5 @@ click.oneplus.cn
 /^(.*\.)?t.co$/
 /^(.*\.)?x.com$/
 /^(.*\.)?pscp.tv$/
+
+/^(.*\.)freshmarketer.com$/
